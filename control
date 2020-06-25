@@ -1,0 +1,9 @@
+Package: com.icraze.ignostoryreactions
+Name: IGNoStoryReactions
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Hides and disables the emoji buttons when you swipe up on an Instagram story.
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
